@@ -1,5 +1,4 @@
 import pyperclip
-import time
 import os
 
 codes = {
