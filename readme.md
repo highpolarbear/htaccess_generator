@@ -9,7 +9,7 @@ This python script generates all the most common http error codes supported by a
 
 
 
-### Instructions 
+## Instructions 
 
 ```python3
 1. Generate htacess codes.
