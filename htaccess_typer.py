@@ -1,3 +1,15 @@
+'''
+====================================
+| Python htaccess generator script |
+| written by @highpolarbear        |
+| https://github.com/highpolarbear |
+|                                  |
+| Free to use, distribute, modify  |
+| as long as original author       |
+| (@highpolarbear) credits remain  |
+====================================
+'''
+
 import pyperclip
 import os
 
