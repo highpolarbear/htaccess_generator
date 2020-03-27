@@ -11,36 +11,42 @@ This python script generates all the most common http error codes supported by a
 
 ### Instructions 
 
->_1._ Generate htacess codes.
->
->_2._ View library of codes.
->
->_0._ View Menu.
->
->_C._ Exit
+```python3
+1. Generate htacess codes.
+
+2. View library of codes.
+
+0. View Menu.
+
+C. Exit
+```
 
 
 
 To generate htaccess error codes, select option one.
 
-> > 1
-> > write your general html file name (or full path) to generate htaccess.
+```python3
+>1
+write your general html file name (or full path) to generate htaccess.
+```
 
 
 
 Input your {error_page}.html
 
-> > error_page.html
->
->  Generated ! It begins like this :
->
-> ErrorDocument 100 /error_page.html
->
-> ErrorDocument 101 /error_page.html
->
-> ErrorDocument 102 /error_page....
->
-> Your output has been copied to your clipboard.
+```python3
+> error_page.html
+
+Generated ! It begins like this :
+
+ErrorDocument 100 /error_page.html
+
+ErrorDocument 101 /error_page.html
+
+ErrorDocument 102 /error_page....
+
+Your output has been copied to your clipboard.
+```
 
 
 
